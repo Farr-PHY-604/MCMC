@@ -1,0 +1,8 @@
+name = "MCMC"
+uuid = "2bdbf730-624e-4c5a-a2fd-6a34da2998ce"
+authors = ["Will M. Farr <wfarr-vscholar@flatironinstitute.org>"]
+version = "0.1.0"
+
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
