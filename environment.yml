@@ -1,0 +1,12 @@
+name: phy-604-mcmc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - arviz
+  - emcee
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - python=3.7
+  - scipy
