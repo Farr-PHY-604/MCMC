@@ -8,5 +8,6 @@ dependencies:
   - jupyterlab
   - matplotlib
   - numpy
+  - pystan
   - python=3.7
   - scipy
